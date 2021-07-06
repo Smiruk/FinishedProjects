@@ -1,7 +1,7 @@
 import os, pyautogui
 import time
 
-os.chdir('C:\\Users\\Vagabond\\Desktop\\FOnlineMiningScript')
+os.chdir('C:\\Users\\Username\\YourDirectory') ### Directory containing pictures of ore/brahmin/char goes here. Separate with // rather than /
 
 times = 1
 mineral_ore_PNG = ('minerals61day.PNG' or 'minerals61night.PNG' or 'minerals61evening.PNG' or 'mintest.PNG')
