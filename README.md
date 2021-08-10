@@ -15,4 +15,4 @@ with that, but afaik it's not 100% reliable.
 Myself i've mined a ton of materials with this thing, but it was for testing purposes and i have no intention on either playing
 FOnline or developing the script any further, although a very simple and efficient design is possible to achieve.
 
-Please, keep in mind that this was my first real project on python, so it's a mess, i can code so much better now.
+Please, keep in mind that this was my first real project on python, so it's a mess.
